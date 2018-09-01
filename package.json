@@ -1,10 +1,13 @@
 {
-  "name": "rostelekomer",
+  "name": "rostelecomer",
   "version": "1.0.0",
-  "description": "Reloads router until get good IP",
+  "description": "Reloads router until it gets good IP",
   "main": "index.js",
   "author": "Artem",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "is-online": "^7.0.0",
     "puppeteer": "^1.7.0",
