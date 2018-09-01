@@ -1,6 +1,6 @@
-# Rostelecomer
+# Rostelekomer
 
-## Prerequisites
+### Prerequisites
 
 I don't know why, but some of the Rostelecom's IPs are always in ban on some sites.
 
@@ -8,7 +8,7 @@ This is the simple and messy script which partialy solves that problem, just rel
 
 Supports only **TP-Link w740**
 
-## Setup
+### Setup
 1. Add index.js to `config` folder with something like this:
 ```javascript
 const DOMAIN = 'http://192.168.0.1';

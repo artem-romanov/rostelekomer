@@ -1,5 +1,5 @@
 {
-  "name": "rostelecomer",
+  "name": "rostelekomer",
   "version": "1.0.0",
   "description": "Reloads router until it gets good IP",
   "main": "index.js",
