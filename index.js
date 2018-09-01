@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const puppeteer = require('puppeteer');
 const isOnline = require('is-online');
 const request = require('request-promise-native');

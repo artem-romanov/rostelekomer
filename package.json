@@ -1,12 +1,15 @@
 {
   "name": "rostelekomer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reloads router until it gets good IP",
   "main": "index.js",
   "author": "Artem",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
+  },
+  "bin": {
+    "rostelekomer": "index.js"
   },
   "dependencies": {
     "is-online": "^7.0.0",
